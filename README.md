@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=nextcortex.nextcortex-antigravity-auto-accept"><img src="https://img.shields.io/visual-studio-marketplace/d/nextcortex.nextcortex-antigravity-auto-accept?style=flat-square&logo=visual-studio-code" alt="Visual Studio Marketplace Downloads"></a>
-  <a href="https://open-vsx.org/extension/nextcortex/nextcortex-antigravity-auto-accept"><img src="https://img.shields.io/open-vsx/dt/nextcortex/nextcortex-antigravity-auto-accept?style=flat-square&logo=eclipse" alt="Open VSX Downloads"></a>
+  <a href="https://open-vsx.org/extension/nextcortex/antigravity-auto-accept"><img src="https://img.shields.io/open-vsx/dt/nextcortex/antigravity-auto-accept?style=flat-square&logo=eclipse" alt="Open VSX Downloads"></a>
   <img src="https://img.shields.io/badge/version-3.0.2-0078d4?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-43a047?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/telemetry-none-e53935?style=flat-square" alt="Telemetry">
