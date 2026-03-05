@@ -1,0 +1,30 @@
+# Dependencies (bundled by esbuild)
+node_modules/
+
+# Source files (only dist needed at runtime)
+src/
+
+# Dev config
+.vscode/
+.git/
+.gitignore
+.vsixignore
+
+# Build tools
+esbuild.js
+tsconfig.json
+
+# Packaged extensions
+*.vsix
+
+# Lock file (not needed at runtime)
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & env
+*.log
+.env
+.env.local
